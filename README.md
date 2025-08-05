@@ -8,7 +8,8 @@ Bachelor of Computer Applications graduate skilled in Python, ML, LLMs, Streamli
 ## 🔧 What I Build (Projects & AI Infrastructure)
 
 - **📄 RAG‑PDF Q&A App**: Upload PDFs, chunk and embed text with HuggingFace, store with FAISS, and generate smart answers using **Groq LLM** via LangChain.  
-  *Live on Streamlit Cloud → [https://rag-app-langchain-groq-jmv7qhq4cpfyzaj9zahwlb.streamlit.app/]* • *Code →  *https://github.com/Hrithikdeep/rag-qa-langchain-groq*
+  *Live on Streamlit Cloud → [https://rag-app-langchain-groq-jmv7qhq4cpfyzaj9zahwlb.streamlit.app/]* •
+   *Code →https://github.com/Hrithikdeep/rag-qa-langchain-groq*
 
 - **🔍 Data & ML Projects**: End‑to‑end pipelines including cleaning, modeling, and visualization—proficient with Pandas, Scikit‑Learn, NumPy, Matplotlib.
 
