@@ -20,12 +20,19 @@ Bachelor of Computer Applications graduate skilled in Python, ML, LLMs, Streamli
 
 | Area | Tools & Technologies |
 |------|----------------------|
-| Programming | Python, SQL, Jupyter |
-| ML & NLP | scikit‑learn, HuggingFace, PyTorch, sentence‑transformers |
-| LLM & RAG | LangChain, Groq Mixtral, FAISS, RAG chains |
-| Web & UI | Streamlit, FastAPI, Git/GitHub |
-| Cloud & Deployment | Streamlit Cloud, Hugging Face Spaces, Render |
-| Data | Pandas, NumPy, Matplotlib, PyPDF |
+## 🛠 Skills & Tech Stack
+
+| Area              | Tools & Technologies |
+|-------------------|----------------------|
+| Programming       | Python, SQL, Jupyter Notebook |
+| Machine Learning  | Scikit-learn, XGBoost, pandas, NumPy, joblib |
+| Deep Learning     | PyTorch, TensorFlow (basic), CNNs |
+| Computer Vision   | OpenCV, torchvision, PIL |
+| LLMs & Gen AI     | LangChain, Groq LLM, Hugging Face, RAG, Embeddings |
+| NLP & Text AI     | sentence-transformers, tokenizers, PyPDF, NER |
+| Web & UI          | Streamlit, FastAPI |
+| Vector Databases  | FAISS, Chroma (basic) |
+| Dev & Deployment  | Git/GitHub, Streamlit Cloud, Hugging Face Spaces, Render |
 
 ---
 
