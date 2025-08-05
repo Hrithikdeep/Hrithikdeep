@@ -1,30 +1,60 @@
-# 👋 Hi, I’m Hrithik 
+# Hi, I’m Hrithik 👋  
+**Data Science & Generative AI engineer**
 
-🎓 Data Automation Intern at Springer Capital | Aspiring Data Scientist  
-🚀 Passionate about solving real-world problems using AI, LLMs & Data Science
+Bachelor of Computer Applications graduate skilled in Python, ML, LLMs, Streamlit, and GitHub workflows. I build real‑world AI products and APIs from scratch—including document‑driven Q&A, NER, predictive modeling, and more.
 
-## 🧠 Currently Learning
-- Python for Data Science
-- Pandas, NumPy, Scikit-learn
-- Data Visualization (matplotlib, seaborn)
-- Generative AI and LLMs
-- Machine Learning & Deep Learning
+---
 
-## 📊 Featured Projects
-- ✅ Data Cleaning & Visualization in Pandas
-- ✅ LLM-powered Document Chatbot (Coming Soon)
-- ✅ End-to-End Data Science Project (Coming Soon)
+## 🔧 What I Build (Projects & AI Infrastructure)
 
-## 🎯 Goals
-- Get a **remote Data Science job** in 3 months
-- Build 5 strong portfolio projects
-- Master LLMs & deploy real-world tools
+- **📄 RAG‑PDF Q&A App**: Upload PDFs, chunk and embed text with HuggingFace, store with FAISS, and generate smart answers using **Groq LLM** via LangChain.  
+  *Live on Streamlit Cloud → [https://rag-app-langchain-groq-jmv7qhq4cpfyzaj9zahwlb.streamlit.app/]* • *Code → *
 
-## 🛠️ Tools & Languages
-Python | Pandas | NumPy | Matplotlib | scikit-learn | Git | Jupyter | OpenAI API | VS Code
+- **🔍 Data & ML Projects**: End‑to‑end pipelines including cleaning, modeling, and visualization—proficient with Pandas, Scikit‑Learn, NumPy, Matplotlib.
 
-## 📫 Connect With Me
-📧 Email: dhrithik4567@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/hrithikdeep/
+- **🤖 AI Tooling & Automation**: Internal tools using Streamlit, APIs, Groq/LLM, and vector search integrations for knowledge retrieval and summarization.
+
+---
+
+## 🛠 Skills & Tech Stack
+
+| Area | Tools & Technologies |
+|------|----------------------|
+| Programming | Python, SQL, Jupyter |
+| ML & NLP | scikit‑learn, HuggingFace, PyTorch, sentence‑transformers |
+| LLM & RAG | LangChain, Groq Mixtral, FAISS, RAG chains |
+| Web & UI | Streamlit, FastAPI, Git/GitHub |
+| Cloud & Deployment | Streamlit Cloud, Hugging Face Spaces, Render |
+| Data | Pandas, NumPy, Matplotlib, PyPDF |
+
+---
+
+## 🚀 Recent Experience
+
+- Developed and deployed a **production-ready RAG document Q&A product**, enabling users to query documents intelligently.
+
+- Focused on performance and accuracy—designed retrieval pipelines to reduce hallucination by combining vector search with precise embedding methodologies.
+
+- Proficient in taking projects from zero → prototype → hosted demo → public GitHub repo.
+
+---
+
+## 🎯 What I'm Looking For
+
+I'm seeking opportunities in **Data Science, MLOps, AI Product Engineering, or Generative AI** where I can bring my skillset in document understanding, real‑time AI systems, and ML pipeline deployments.
+
+---
+
+## 📬 Let’s Connect!
+
+- LinkedIn: [in/hrithikdeep](https://in.linkedin.com/in/hrithikdeep)  
+- GitHub: [@Hrithikdeep](https://github.com/Hrithikdeep)  
+- Email: hrithikdeep.ds@gmail.com
+
+---
+
+## ✨ Quick Snapshot
+
+
 
 
