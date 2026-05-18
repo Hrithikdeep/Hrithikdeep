@@ -1,68 +1,188 @@
-# Hi, I’m Hrithik 👋  
-**Data Science & Generative AI engineer**
+# Hi, I'm Hrithik 👋
 
-Bachelor of Computer Applications graduate skilled in Python, ML, LLMs, Streamlit, and GitHub workflows. I build real‑world AI products and APIs from scratch—including document‑driven Q&A, NER, predictive modeling, and more.
+### Full Stack Engineer • AI Engineer 
 
----
+I build production-grade software systems, AI applications, scalable backend infrastructure, and real-world digital platforms — from architecture to deployment.
 
-## 🔧 What I Build (Projects & AI Infrastructure)
+Focused on:
 
-- **📄 RAG‑PDF Q&A App**: Upload PDFs, chunk and embed text with HuggingFace, store with FAISS, and generate smart answers using **Groq LLM** via LangChain.  
-  *Live on Streamlit Cloud → [https://rag-app-langchain-groq-jmv7qhq4cpfyzaj9zahwlb.streamlit.app/]* •
-   *Code →https://github.com/Hrithikdeep/rag-qa-langchain-groq*
-
-- **🔍 Data & ML Projects**: End‑to‑end pipelines including cleaning, modeling, and visualization—proficient with Pandas, Scikit‑Learn, NumPy, Matplotlib.
-
-- **🤖 AI Tooling & Automation**: Internal tools using Streamlit, APIs, Groq/LLM, and vector search integrations for knowledge retrieval and summarization.
-
----
-
-## 🛠 Skills & Tech Stack
-
-| Area | Tools & Technologies |
-|------|----------------------|
-## 🛠 Skills & Tech Stack
-
-| Area              | Tools & Technologies |
-|-------------------|----------------------|
-| Programming       | Python, SQL, Jupyter Notebook |
-| Machine Learning  | Scikit-learn, XGBoost, pandas, NumPy, joblib |
-| Deep Learning     | PyTorch, TensorFlow (basic), CNNs |
-| Computer Vision   | OpenCV, torchvision, PIL |
-| LLMs & Gen AI     | LangChain, Groq LLM, Hugging Face, RAG, Embeddings |
-| NLP & Text AI     | sentence-transformers, tokenizers, PyPDF, NER |
-| Web & UI          | Streamlit, FastAPI |
-| Vector Databases  | FAISS, Chroma (basic) |
-| Dev & Deployment  | Git/GitHub, Streamlit Cloud, Hugging Face Spaces, Render |
+* Full Stack Engineering
+* AI Systems & RAG Applications
+* Backend Architecture
+* Cloud Infrastructure
+* Generative AI & LLM Engineering
+* ERP & Business Systems
+* AI Automation & Agentic Workflows
 
 ---
 
-## 🚀 Recent Experience
+## 🚀 What I Build
 
-- Developed and deployed a **production-ready RAG document Q&A product**, enabling users to query documents intelligently.
+### 🧠 AI Systems & Generative AI Applications
 
-- Focused on performance and accuracy—designed retrieval pipelines to reduce hallucination by combining vector search with precise embedding methodologies.
+* RAG-based AI systems
+* Document Q&A pipelines
+* AI copilots & assistants
+* Semantic search engines
+* AI memory systems
+* Multi-step AI workflows
+* AI automation tools
+* LLM-powered APIs
+* Retrieval pipelines using vector databases
 
-- Proficient in taking projects from zero → prototype → hosted demo → public GitHub repo.
+### 🏢 Production Software Systems
+
+* Enterprise ERP systems
+* Labour Welfare Management Platforms
+* Admin dashboards
+* Authentication systems
+* QR-based ID verification systems
+* Full stack SaaS applications
+* Business management platforms
+* Cloud-native applications
+
+### 🌐 Backend & Cloud Infrastructure
+
+* REST & GraphQL APIs
+* Distributed backend systems
+* Real-time applications
+* Dockerized deployments
+* Kubernetes infrastructure
+* CI/CD workflows
+* Cloud architecture
+* GPU-ready AI infrastructure
 
 ---
 
-## 🎯 What I'm Looking For
+# 🛠 Tech Stack
 
-I'm seeking opportunities in **Data Science, MLOps, AI Product Engineering, or Generative AI** where I can bring my skillset in document understanding, real‑time AI systems, and ML pipeline deployments.
+| Category              | Technologies                                                    |
+| --------------------- | --------------------------------------------------------------- |
+| Programming Languages | Python, TypeScript, JavaScript, SQL                             |
+| Frontend Development  | React.js, Next.js, Tailwind CSS, Flutter                        |
+| Backend Development   | Node.js, Express.js, NestJS, FastAPI                            |
+| Database Systems      | PostgreSQL, Redis, MongoDB                                      |
+| AI & ML Frameworks    | PyTorch, TensorFlow, JAX, Scikit-learn                          |
+| LLM & AI Engineering  | LangChain, LangGraph, MCP, Hugging Face, Transformers, Groq API |
+| RAG & Vector Systems  | FAISS, Pinecone, Weaviate, ChromaDB, Milvus                     |
+| AI Capabilities       | RAG Pipelines, Semantic Search, Embeddings, AI Memory Systems   |
+| NLP & Document AI     | NER, Sentence Transformers, Tokenizers, PyPDF                   |
+| DevOps & Cloud        | AWS, Docker, Kubernetes, CI/CD, Azure, GCP                      |
+| AI Infrastructure     | Distributed Training, GPU Clusters, Ray                         |
+| Deployment & Hosting  | Vercel, Render, Hugging Face Spaces, Streamlit Cloud            |
+| Tools & Workflow      | Git, GitHub, Postman, VS Code, Linux                            |
 
 ---
 
-## 📬 Let’s Connect!
+# 🔥 Featured Projects
 
-- LinkedIn: [in/hrithikdeep](https://in.linkedin.com/in/hrithikdeep)  
-- GitHub: [@Hrithikdeep](https://github.com/Hrithikdeep)  
-- Email: hrithikdeep.ds@gmail.com
+## 🏢 Labour Welfare Management System
+
+Complete digital welfare platform including:
+
+* Worker registration
+* QR-based digital ID cards
+* Verification portal
+* Admin management dashboard
+* Flutter mobile application
+* Real-time approval system
+
+### Tech Stack
+
+`Flutter` `React` `Node.js` `PostgreSQL` `REST APIs`
 
 ---
 
-## ✨ Quick Snapshot
+## 📊 Enterprise Retail ERP System
 
+Production-grade ERP platform with:
+
+* Inventory management
+* Billing systems
+* Stock tracking
+* Admin dashboards
+* Business analytics
+* Multi-role authentication
+
+### Tech Stack
+
+`Next.js` `Node.js` `PostgreSQL` `Cloud Deployment`
+
+---
+
+## 🧠 RAG PDF Q&A System
+
+AI-powered document intelligence system:
+
+* PDF ingestion
+* Semantic retrieval
+* Embedding pipelines
+* Vector search
+* LLM-based response generation
+
+### Tech Stack
+
+`LangChain` `HuggingFace` `FAISS` `Groq` `Streamlit`
+
+### Live Demo
+
+🔗 https://rag-app-langchain-groq-jmv7qhq4cpfyzaj9zahwlb.streamlit.app/
+
+### GitHub Repository
+
+🔗 https://github.com/Hrithikdeep/rag-qa-langchain-groq
+
+---
+
+# 📈 Current Focus
+
+Currently exploring and building:
+
+* AI Agents & Agentic Workflows
+* MCP-based AI Systems
+* LangGraph orchestration
+* AI Infrastructure Engineering
+* Distributed AI pipelines
+* Cloud-native backend systems
+* Advanced RAG architectures
+* AI research systems
+
+---
+
+# 🌍 Portfolio & Profiles
+
+### Portfolio Website
+
+🔗 https://hrithik-portfolio-nu.vercel.app/
+
+### GitHub
+
+🔗 https://github.com/Hrithikdeep
+
+### LinkedIn
+
+🔗 https://in.linkedin.com/in/hrithikdeep
+
+---
+
+# 📬 Contact
+
+📧 [deephrithik012@gmail.com](mailto:deephrithik012@gmail.com)
+
+💼 Open to:
+
+* Full Stack Development
+* AI Engineering
+* Backend Engineering
+* Generative AI Projects
+* Remote Opportunities
+* Freelance Systems Development
+
+---
+
+# ⚡ Engineering Philosophy
+
+I enjoy building systems that solve real-world problems — combining scalable engineering, AI capabilities, and clean architecture into products users actually depend on.
 
 
 
