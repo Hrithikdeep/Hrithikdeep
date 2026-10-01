@@ -53,7 +53,7 @@ A 10-component agentic system — 7 LLM reasoning agents plus 3 deterministic se
 - LangGraph-orchestrated workflow, persisted to Postgres (survives server restarts)
 
 **Stack:** Python · FastAPI · LangGraph · PostgreSQL + pgvector · SQLAlchemy · Next.js
-**Repo:** [ADD LINK]
+**Repo:** https://github.com/Hrithikdeep/oracle
 
 ---
 
@@ -65,7 +65,7 @@ A visual workflow builder where users compose automations from drag-and-drop nod
 - Production deployment with CI/CD
 
 **Stack:** Next.js · Node.js · NestJS · PostgreSQL · Redis · BullMQ · LangChain
-**Repo:** [ADD LINK]
+**Repo:** https://github.com/Hrithikdeep/ai-workflow-studio
 
 ---
 
