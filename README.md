@@ -1,188 +1,87 @@
 # Hi, I'm Hrithik 👋
+### Software Engineer — Full Stack, Backend & Agentic AI Systems
 
-### Full Stack Engineer • AI Engineer 
-
-I build production-grade software systems, AI applications, scalable backend infrastructure, and real-world digital platforms — from architecture to deployment.
-
-Focused on:
-
-* Full Stack Engineering
-* AI Systems & RAG Applications
-* Backend Architecture
-* Cloud Infrastructure
-* Generative AI & LLM Engineering
-* ERP & Business Systems
-* AI Automation & Agentic Workflows
+I build production-grade software — backend infrastructure, full-stack applications, and multi-agent AI systems — from architecture through deployment.
 
 ---
 
-## 🚀 What I Build
+## ⚙️ What I Work On
 
-### 🧠 AI Systems & Generative AI Applications
-
-* RAG-based AI systems
-* Document Q&A pipelines
-* AI copilots & assistants
-* Semantic search engines
-* AI memory systems
-* Multi-step AI workflows
-* AI automation tools
-* LLM-powered APIs
-* Retrieval pipelines using vector databases
-
-### 🏢 Production Software Systems
-
-* Enterprise ERP systems
-* Labour Welfare Management Platforms
-* Admin dashboards
-* Authentication systems
-* QR-based ID verification systems
-* Full stack SaaS applications
-* Business management platforms
-* Cloud-native applications
-
-### 🌐 Backend & Cloud Infrastructure
-
-* REST & GraphQL APIs
-* Distributed backend systems
-* Real-time applications
-* Dockerized deployments
-* Kubernetes infrastructure
-* CI/CD workflows
-* Cloud architecture
-* GPU-ready AI infrastructure
+- Backend architecture & distributed systems
+- Multi-agent AI orchestration (LangGraph)
+- RAG pipelines & retrieval systems
+- Full-stack production applications
+- AI-native infrastructure & automation
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-| Category              | Technologies                                                    |
-| --------------------- | --------------------------------------------------------------- |
-| Programming Languages | Python, TypeScript, JavaScript, SQL                             |
-| Frontend Development  | React.js, Next.js, Tailwind CSS, Flutter                        |
-| Backend Development   | Node.js, Express.js, NestJS, FastAPI                            |
-| Database Systems      | PostgreSQL, Redis, MongoDB                                      |
-| AI & ML Frameworks    | PyTorch, TensorFlow, JAX, Scikit-learn                          |
-| LLM & AI Engineering  | LangChain, LangGraph, MCP, Hugging Face, Transformers, Groq API |
-| RAG & Vector Systems  | FAISS, Pinecone, Weaviate, ChromaDB, Milvus                     |
-| AI Capabilities       | RAG Pipelines, Semantic Search, Embeddings, AI Memory Systems   |
-| NLP & Document AI     | NER, Sentence Transformers, Tokenizers, PyPDF                   |
-| DevOps & Cloud        | AWS, Docker, Kubernetes, CI/CD, Azure, GCP                      |
-| AI Infrastructure     | Distributed Training, GPU Clusters, Ray                         |
-| Deployment & Hosting  | Vercel, Render, Hugging Face Spaces, Streamlit Cloud            |
-| Tools & Workflow      | Git, GitHub, Postman, VS Code, Linux                            |
+| Category | Technologies |
+|---|---|
+| Languages | TypeScript, JavaScript, Python, SQL |
+| Backend | Node.js, Express, NestJS, FastAPI, REST APIs |
+| Frontend | React, Next.js, Tailwind CSS |
+| Databases | PostgreSQL, pgvector, Redis, MongoDB |
+| AI / Agents | LangChain, LangGraph, OpenAI API, Multi-Agent Orchestration, RAG, Vector Search |
+| Queues / Infra | BullMQ, Redis, Docker, Railway, Vercel |
+| Tools | Git, GitHub, Prisma, SQLAlchemy |
 
 ---
 
-# 🔥 Featured Projects
+## 🚀 Featured Projects
 
-## 🏢 Labour Welfare Management System
+### 🔧 Relay — AI-Native Background Job Processing Platform
+A distributed job queue with AI-driven routing and self-healing retry logic — when a job fails, an AI agent analyzes the failure and corrects the retry strategy automatically instead of failing silently.
 
-Complete digital welfare platform including:
+- Full backend: job queue, worker system, multi-step workflow execution engine
+- AI Chat agent with 13 real tools, streaming responses, and human-in-the-loop approval before destructive actions (cancel job, pause queue)
+- Multi-step Workflows engine — sequential execution across queues with automatic failure halting
+- Production deployment: Railway (backend + Postgres + Redis) + Vercel (frontend)
 
-* Worker registration
-* QR-based digital ID cards
-* Verification portal
-* Admin management dashboard
-* Flutter mobile application
-* Real-time approval system
-
-### Tech Stack
-
-`Flutter` `React` `Node.js` `PostgreSQL` `REST APIs`
+**Stack:** Node.js · TypeScript · Express · PostgreSQL · Prisma · Redis · BullMQ · LangChain/OpenAI · Next.js
+**Repo:** https://github.com/Hrithikdeep/relay
 
 ---
 
-## 📊 Enterprise Retail ERP System
+### 🧠 Oracle — Multi-Agent Financial Research System
+A 10-component agentic system — 7 LLM reasoning agents plus 3 deterministic services — that investigates a company, cross-verifies every claim against retrieved evidence, and flags findings it can't substantiate instead of guessing.
 
-Production-grade ERP platform with:
+- Real evidence retrieval (Tavily + SEC EDGAR) with chunking, embeddings, and hybrid search over pgvector
+- Dedicated Verification Engine that challenges its own findings before they reach the output
+- Full traceability — every risk/finding links back to its source evidence or financial data
+- LangGraph-orchestrated workflow, persisted to Postgres (survives server restarts)
 
-* Inventory management
-* Billing systems
-* Stock tracking
-* Admin dashboards
-* Business analytics
-* Multi-role authentication
-
-### Tech Stack
-
-`Next.js` `Node.js` `PostgreSQL` `Cloud Deployment`
+**Stack:** Python · FastAPI · LangGraph · PostgreSQL + pgvector · SQLAlchemy · Next.js
+**Repo:** [ADD LINK]
 
 ---
 
-## 🧠 RAG PDF Q&A System
+### ⚡ AI Workflow Studio — No-Code AI Automation Platform
+A visual workflow builder where users compose automations from drag-and-drop nodes — including AI Agent nodes — backed by a real job execution engine with retries and logging.
 
-AI-powered document intelligence system:
+- Visual node editor with 12+ node types (HTTP, Gmail, Slack, AI Agent, and more)
+- Redis/BullMQ-backed execution engine with retry logic and structured logs
+- Production deployment with CI/CD
 
-* PDF ingestion
-* Semantic retrieval
-* Embedding pipelines
-* Vector search
-* LLM-based response generation
-
-### Tech Stack
-
-`LangChain` `HuggingFace` `FAISS` `Groq` `Streamlit`
-
-### Live Demo
-
-🔗 https://rag-app-langchain-groq-jmv7qhq4cpfyzaj9zahwlb.streamlit.app/
-
-### GitHub Repository
-
-🔗 https://github.com/Hrithikdeep/rag-qa-langchain-groq
+**Stack:** Next.js · Node.js · NestJS · PostgreSQL · Redis · BullMQ · LangChain
+**Repo:** [ADD LINK]
 
 ---
 
-# 📈 Current Focus
+## 📈 Currently Exploring
 
-Currently exploring and building:
-
-* AI Agents & Agentic Workflows
-* MCP-based AI Systems
-* LangGraph orchestration
-* AI Infrastructure Engineering
-* Distributed AI pipelines
-* Cloud-native backend systems
-* Advanced RAG architectures
-* AI research systems
+- Advanced multi-agent orchestration patterns
+- Production RAG & retrieval architectures
+- AI infrastructure & evaluation systems
 
 ---
 
-# 🌍 Portfolio & Profiles
+## 📫 Reach Me
 
-### Portfolio Website
+📧 hrithikdeep243@gmail.com
+💼 [LinkedIn](https://in.linkedin.com/in/hrithikdeep)
+💻 [GitHub](https://github.com/Hrithikdeep)
 
-🔗 https://hrithik-portfolio-nu.vercel.app/
-
-### GitHub
-
-🔗 https://github.com/Hrithikdeep
-
-### LinkedIn
-
-🔗 https://in.linkedin.com/in/hrithikdeep
-
----
-
-# 📬 Contact
-
-📧 [deephrithik012@gmail.com](mailto:deephrithik012@gmail.com)
-
-💼 Open to:
-
-* Full Stack Development
-* AI Engineering
-* Backend Engineering
-* Generative AI Projects
-* Remote Opportunities
-* Freelance Systems Development
-
----
-
-# ⚡ Engineering Philosophy
-
-I enjoy building systems that solve real-world problems — combining scalable engineering, AI capabilities, and clean architecture into products users actually depend on.
-
-
+**Open to:** Backend Engineer · AI/Agentic Engineer · Founding Engineer · Forward Deployed Engineer — Remote (India / USA)
 
