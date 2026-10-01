@@ -75,6 +75,11 @@ A visual workflow builder where users compose automations from drag-and-drop nod
 - Production RAG & retrieval architectures
 - AI infrastructure & evaluation systems
 
+
+- **Open to:** Backend Engineer · AI/Agentic Engineer · Founding Engineer · Forward Deployed Engineer — Remote (India / USA)
++ **Open to:** Founding Engineer · Forward Deployed Engineer · AI/Agentic Engineer · Backend Engineer — Remote (India / USA)
++
++ I build and ship production systems end-to-end — from architecture to deployment, with founder-level ownership.
 ---
 
 ## 📫 Reach Me
